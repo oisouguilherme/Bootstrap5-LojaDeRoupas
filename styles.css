@@ -1,0 +1,20 @@
+.texto-menor{
+  font-size: 13px;
+}
+
+.divs-facilidades{
+  width:325px;
+}
+
+.color-green{
+  color:#DAFF01;
+}
+
+.bg-purple{
+  background-color:  #9353FF;
+  color: white;
+}
+.bg-purple:hover{
+  background-color:  #8240f5;
+  color: white;
+}
