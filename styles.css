@@ -5,16 +5,19 @@
 .divs-facilidades{
   width:325px;
 }
+.image{
+  width: 100px;
+}
 
 .color-green{
-  color:#DAFF01;
+  color:#D3A76A;
 }
 
 .bg-purple{
-  background-color:  #9353FF;
+  background-color:  #D3A76A;
   color: white;
 }
 .bg-purple:hover{
-  background-color:  #8240f5;
+  background-color:  #b3833f;
   color: white;
 }
